@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/mariia080693/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1258-article-views-i](https://github.com/mariia080693/Leetcode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/mariia080693/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/mariia080693/Leetcode/tree/master/1670-patients-with-a-condition) |
