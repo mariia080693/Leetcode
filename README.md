@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/mariia080693/Leetcode/tree/master/1827-invalid-tweets) |
 | [1948-rearrange-products-table](https://github.com/mariia080693/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/mariia080693/Leetcode/tree/master/2024-calculate-special-bonus) |
+| [2057-count-salary-categories](https://github.com/mariia080693/Leetcode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
