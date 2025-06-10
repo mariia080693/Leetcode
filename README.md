@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/mariia080693/Leetcode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/mariia080693/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/mariia080693/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/mariia080693/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/mariia080693/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/mariia080693/Leetcode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/mariia080693/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
